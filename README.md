@@ -36,8 +36,8 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 
 
 ## 🤝 Let’s Connect  
-🌐 [Portfolio](https://your-portfolio-link.com)  
-📧 fairooz.mashwiyat@example.com  
+🌐 [Portfolio]([https://your-portfolio-link.com](https://omlanfz.github.io/))  
+📧 fz.omlan@gmail.com  
 
 
 
