@@ -5,11 +5,9 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 
 
 
-## 🚀 What I Worked on  
+## 🚀 Previous Projects
 - **HouseVal**: Predict house prices like a psychic—except I use data and Python.  
-- **Sign Language Detection**: Teaching machines to understand hand gestures better than I do.  
-- **Earthquake Prediction**: Trying to outsmart nature with ML (wish me luck).  
-- **Image Classification**: Turning pixels into insights.  
+- **Automated-hashtag-commenter**: A tool for auto-generate hashtag-based comments on social media, inspired by the political upheaval and government downfall tragedy in Bangladesh.
 
 
 
@@ -18,7 +16,8 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 - 🤟 **Sign Language Detection**: Teaching machines to understand gestures.  
 - 🌍 **Earthquake Prediction**: Using ML to foresee quakes in Bangladesh.  
 - 📸 **Image Classification**: Making sense of pixels with AI.  
-- 🌐 **WordPress Projects**: Building **eCommerce**, **portfolio**, **ticket booking**, and **management system** websites.  
+- 🌐 **WordPress Projects**: Building **eCommerce**, **portfolio**, **ticket booking**, and **management system** websites.
+- ♟️ AI Chess Engine: Developing a Python-based AI to play chess like a pro.
 
 
 
