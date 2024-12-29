@@ -43,6 +43,6 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 
 
 
- ### _“Code, Create, Impact”_ 
+ ### _“Code. Create. Impact”_ 
 
    ...and debug endlessly 😮‍💨 
