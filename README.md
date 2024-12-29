@@ -35,12 +35,15 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 
 
 
-## 🤝 Let’s Connect  
-🌐 [Portfolio]([https://your-portfolio-link.com](https://omlanfz.github.io/))  
-📧 fz.omlan@gmail.com  
+## 🌟 Find Me Online  
+🌐 [Portfolio](https://omlanfz.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fz-omlan)  
+📘 [Facebook](https://www.facebook.com/omlanfz)  
+📸 [Instagram](https://www.instagram.com/omlanfz)  
+📧 fz.omlan@gmail.com   
 
 
 
 _“Code, Create, Impact”_ 
 
-              ...and debug endlessly. 
+   ...and debug endlessly 😮‍💨 
