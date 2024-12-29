@@ -6,13 +6,12 @@ I’m a **CSE graduate** turned **Web developer**, **AI enthusiast**, and low-ke
 
 
 ## 🚀 Previous Projects
-- **HouseVal**: Predict house prices like a psychic—except I use data and Python.  
-- **Automated-hashtag-commenter**: A tool for auto-generate hashtag-based comments on social media, inspired by the political upheaval and government downfall tragedy in Bangladesh.
+- 🏠 **HouseVal**: Predict house prices like a psychic—except I use data and Python.  
+- ⌨️ **Automated-hashtag-commenter**: A tool for auto-generate hashtag-based comments on social media, inspired by the political upheaval and government downfall tragedy in Bangladesh.
 
 
 
 ## 🔧 Currently Working On  
-- 🏠 **HouseVal**: Predicting house prices with ML.  
 - 🤟 **Sign Language Detection**: Teaching machines to understand gestures.  
 - 🌍 **Earthquake Prediction**: Using ML to foresee quakes in Bangladesh.  
 - 📸 **Image Classification**: Making sense of pixels with AI.  
